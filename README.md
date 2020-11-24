@@ -1,3 +1,3 @@
 # nodemailer-example
 
-Class example with all the code relating the setup of nodemailer
+Class example with all the code relating the setting up of nodemailer
